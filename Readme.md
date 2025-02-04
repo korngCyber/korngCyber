@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m a passionate developer with experience in Flutter, Laravel, Java, and web development. I enjoy creating innovative applications and solving complex challenges through technology. Always striving to improve, I constantly seek new tools, frameworks, and best practices to enhance my skills. With a focus on mobile, backend, and web development, I aim to build efficient, scalable, and user-friendly applications that deliver great value to users.
+I’m a passionate developer with experience in Flutter, Laravel, Java, Springboot, and web development. I enjoy creating innovative applications and solving complex challenges through technology. Always striving to improve, I constantly seek new tools, frameworks, and best practices to enhance my skills. With a focus on mobile, backend, and web development, I aim to build efficient, scalable, and user-friendly applications that deliver great value to users.
 
 ## 🛠️ Tech Stack
 
@@ -21,13 +21,12 @@ I’m a passionate developer with experience in Flutter, Laravel, Java, and web 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat&logo=internet-of-things&logoColor=white)
 
-
 ## 📈 GitHub Stats
 
-![KorngCyber's GitHub Stats](https://github-readme-stats.vercel.app/api?username=korngCyber&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=korngCyber&layout=compact&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=korngCyber&show_icons=true&theme=default" width="30%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korngCyber&layout=compact&theme=default" width="30%" height="200" />
+</p>
 
 ## 📫 Contact Me
 
